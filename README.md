@@ -1,5 +1,5 @@
 # Regression-on-the-tabular-data
-Прогнозирование целевой переменной с использованием Random Forest Regressor.
-1. model_predictions.csv - прогнозы для internship_hidden_test.csv файла.
-2. main.ipynb - блокнот jupyter с анализом данных и обучением модели.
-3. requirements.txt - список всех необходимых модулей и пакетов Python.
+Predicting the target variable using Random Forest Regressor.
+1. model_predictions.csv - predictions for the internship_hidden_test.csv file.
+2. main.ipynb - Jupyter notebook with data analysis and model training.
+3. requirements.txt - a list of all necessary Python modules and packages.
